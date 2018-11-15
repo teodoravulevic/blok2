@@ -1,0 +1,26 @@
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\bin\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\bin\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\obj\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\obj\x64\Debug\Contracts.pdb
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\Contracts\bin\x64\Debug\Contracts.dll
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\Contracts\bin\x64\Debug\Contracts.pdb
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\Contracts\obj\x64\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\Contracts\obj\x64\Debug\Contracts.dll
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\Contracts\obj\x64\Debug\Contracts.pdb
+C:\Users\Administrator\Desktop\sandra\Vezba_2\Contracts\bin\x64\Debug\Contracts.dll
+C:\Users\Administrator\Desktop\sandra\Vezba_2\Contracts\bin\x64\Debug\Contracts.pdb
+C:\Users\Administrator\Desktop\sandra\Vezba_2\Contracts\obj\x64\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sandra\Vezba_2\Contracts\obj\x64\Debug\Contracts.dll
+C:\Users\Administrator\Desktop\sandra\Vezba_2\Contracts\obj\x64\Debug\Contracts.pdb
+C:\Users\Teodora\Desktop\sandra\Vezba_2\Contracts\bin\x64\Debug\Contracts.dll
+C:\Users\Teodora\Desktop\sandra\Vezba_2\Contracts\bin\x64\Debug\Contracts.pdb
+C:\Users\Teodora\Desktop\sandra\Vezba_2\Contracts\obj\x64\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Teodora\Desktop\sandra\Vezba_2\Contracts\obj\x64\Debug\Contracts.dll
+C:\Users\Teodora\Desktop\sandra\Vezba_2\Contracts\obj\x64\Debug\Contracts.pdb
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\Contracts\bin\x64\Debug\Contracts.dll
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\Contracts\bin\x64\Debug\Contracts.pdb
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\Contracts\obj\x64\Debug\Contracts.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\Contracts\obj\x64\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\Contracts\obj\x64\Debug\Contracts.dll
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\Contracts\obj\x64\Debug\Contracts.pdb

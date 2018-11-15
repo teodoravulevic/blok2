@@ -1,0 +1,45 @@
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\ServiceApp.exe
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\ServiceApp.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\SecurityManager.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\SecurityManager.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\obj\x64\Debug\ServiceApp.exe
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\obj\x64\Debug\ServiceApp.pdb
+C:\Users\Admin\Desktop\VEZBE 2016\AccessControls\ServiceApp\obj\x64\Debug\ServiceApp.exe
+C:\Users\Admin\Desktop\VEZBE 2016\AccessControls\ServiceApp\obj\x64\Debug\ServiceApp.pdb
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\obj\x64\Debug\ServiceApp.exe
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\obj\x64\Debug\ServiceApp.pdb
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\obj\x64\Debug\ServiceApp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\bin\x64\Debug\ServiceApp.exe
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\bin\x64\Debug\ServiceApp.pdb
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\bin\x64\Debug\Contracts.dll
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\bin\x64\Debug\Contracts.pdb
+C:\Users\Administrator\Desktop\sandra\Vezba_2\ServiceApp\bin\x64\Debug\ServiceApp.exe
+C:\Users\Administrator\Desktop\sandra\Vezba_2\ServiceApp\bin\x64\Debug\ServiceApp.pdb
+C:\Users\Administrator\Desktop\sandra\Vezba_2\ServiceApp\bin\x64\Debug\Contracts.dll
+C:\Users\Administrator\Desktop\sandra\Vezba_2\ServiceApp\bin\x64\Debug\Contracts.pdb
+C:\Users\Administrator\Desktop\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.exe
+C:\Users\Administrator\Desktop\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.pdb
+C:\Users\Teodora\Desktop\sandra\Vezba_2\ServiceApp\bin\x64\Debug\ServiceApp.exe
+C:\Users\Teodora\Desktop\sandra\Vezba_2\ServiceApp\bin\x64\Debug\ServiceApp.pdb
+C:\Users\Teodora\Desktop\sandra\Vezba_2\ServiceApp\bin\x64\Debug\Contracts.dll
+C:\Users\Teodora\Desktop\sandra\Vezba_2\ServiceApp\bin\x64\Debug\Contracts.pdb
+C:\Users\Teodora\Desktop\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.csprojResolveAssemblyReference.cache
+C:\Users\Teodora\Desktop\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Teodora\Desktop\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.csproj.CopyComplete
+C:\Users\Teodora\Desktop\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.exe
+C:\Users\Teodora\Desktop\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.pdb
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\ServiceApp\bin\x64\Debug\ServiceApp.exe
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\ServiceApp\bin\x64\Debug\ServiceApp.pdb
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\ServiceApp\bin\x64\Debug\Contracts.dll
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\ServiceApp\bin\x64\Debug\Contracts.pdb
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.exe
+C:\Users\Administrator\Desktop\IzmenaBlok2\NewSandra\sandra\Vezba_2\ServiceApp\obj\x64\Debug\ServiceApp.pdb
